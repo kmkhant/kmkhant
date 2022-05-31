@@ -13,6 +13,7 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 - 👯 I’m looking to collaborate on web development related projects
 - 💬 Ask me about anything related to Frontend Development ** Vanilla CSS and JS, jQuery, Ajax, ReactJS **
 - ⚡ Fun fact: I am a lazy guy, So I code programs to do what I have to do :)
+- 😎 2022 Goal - Be a Fullstack Developer
 
 
 
