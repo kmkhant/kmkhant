@@ -16,7 +16,7 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 - 😎 2022 Goal - Be a Fullstack Developer
 
 
-
+<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmkhant&show_icons=true&count_private=true&theme=great-gatsby" />
 </p>
@@ -86,14 +86,13 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
 </span>
 
+<br/><br/>
 <p align="center">
   <a href="https://github.com/HridoyHazord/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmkhant&theme=dark)](https://git.io/streak-stats"/>
   </a>
 </p>
 
-<br/>
-<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmkhant&theme=great-gatsby&layout=compact" />
 </p>
