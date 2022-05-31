@@ -100,17 +100,17 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 
 ## Find me on
 <span>
-  <a href="https://www.facebook.com/khaingmyae.khant" target="blank">
+  <a href="https://www.facebook.com/khaingmyae.khant" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/khaing-myel-khant-457b69146/" target="blank">
+  <a href="https://www.linkedin.com/in/khaing-myel-khant-457b69146/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/kmkpro7" target="blank">
+  <a href="https://www.hackerrank.com/kmkpro7" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/kmkhant7777" target="blank">
-  <img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <a href="https://leetcode.com/kmkhant7777" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </span>
 
