@@ -21,7 +21,7 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
   <img src="https://github-readme-stats.vercel.app/api?username=kmkhant&show_icons=true&count_private=true&theme=great-gatsby" />
 </p>
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Skills <img src="https://github.com/kmkhant/kmkhant/assets/gear.gif" width="30px" alt="gear-icon">&nbsp; 
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
