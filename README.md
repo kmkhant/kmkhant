@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Khaing Myel </h1>
+
+I am Khaing Myel Khant, I am currently studying in [University of Computer Studies, Mandalay](https://ucsm.edu.mm/). I love to create modern websites and web applications that help people lives easier.
+
+<
 
 <!--
 **kmkhant/kmkhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
