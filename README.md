@@ -8,7 +8,7 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kmkhant"/></p>
 
-- 🌱 I’m currently learning ** ReactJS/NextJS, ExpressJS and MongoDB **
+- 🌱 I’m can code in ** ReactJS/NextJS, ExpressJS/NestJS and MongoDB/Postgres And Many More **
 - 🔭 I’m currently working on building a portfolio
 - 👯 I’m looking to collaborate on web development related projects
 - 💬 Ask me about anything related to Frontend Development ** Vanilla CSS and JS, jQuery, Ajax, ReactJS **
