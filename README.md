@@ -34,8 +34,8 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
   <img src="https://img.shields.io/badge/npm-2C8EBB?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-CB3837?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
