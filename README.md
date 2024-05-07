@@ -12,7 +12,7 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 - 🔭 I’m currently looking for a js developer job
 - 👯 I’m looking to collaborate on web development related projects
 - 💬 Ask me about anything related to Full-Stack Development
-- ⚡ Coding For Nintendo Switch
+- ⚡ currently coding to get a Nintendo Switch, haha
 - 😎 2024 Goal - Be a tech entrepreneur
 
 
