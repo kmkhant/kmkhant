@@ -9,11 +9,10 @@ I am Khaing Myel Khant, I am currently studying at [University of Computer Studi
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kmkhant"/></p>
 
 - 🌱 I can code in ** ReactJS/NextJS, ExpressJS/NestJS and MongoDB/Postgres And Many More **
-- 🔭 I’m currently looking for a js developer job
+- 🔭 I’m working as a js fullstack dev
 - 👯 I’m looking to collaborate on web development related projects
 - 💬 Ask me about anything related to Full-Stack Development
-- ⚡ currently coding to get a Nintendo Switch, haha
-- 😎 2024 Goal - Be a tech entrepreneur
+- 😎 Have a nice day!
 
 
 <br/>
