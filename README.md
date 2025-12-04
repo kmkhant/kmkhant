@@ -18,7 +18,8 @@ currently working on researching several products
 - Plan B: Ensure Making Plan A Works
 
 ### Contact
-- khaingmyel@solaratek.net
+- khaingmyel.dev@gmail.com [ Personal ]
+- khaingmyel@solaratek.net [ Work ]
   
 <br/>
 
